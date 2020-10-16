@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/echo-bot/.vs
+/echo-bot/bin
+/echo-bot/obj
+/echo-bot/appsettings.json
+/echo-bot/appsettings.Development.json
+/echo-bot/Echobot.zip
